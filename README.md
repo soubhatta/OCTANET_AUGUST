@@ -1,2 +1,2 @@
 # OCTANET_AUGUST
-Projects on Web Development
+Projects on Web Development Internship
